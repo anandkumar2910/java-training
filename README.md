@@ -1,4 +1,2 @@
 # java-training
 
-
-##### Byeeeeeeeeeeeee
